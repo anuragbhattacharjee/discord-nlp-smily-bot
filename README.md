@@ -10,7 +10,7 @@ You can read the details in my [blog post](https://medium.com/@anuragbhattacharj
 
 Before proceeding, make sure you have installed `python3` (the repo is tested with python3.7)
 
-#Installation
+## Installation
 
 1. Clone the repo: `git clone https://github.com/anuragbhattacharjee/discord-nlp-smily-bot.git`
 2. Make an environment: `python3 -m venv your-path-to-venv`
@@ -19,7 +19,7 @@ Before proceeding, make sure you have installed `python3` (the repo is tested wi
 5. Download the [vocabulary](https://github.com/cw75/torchMoji/blob/master/model/vocabulary.json) and save it in tochMoji/model
 6. Download [weights](https://www.dropbox.com/s/q8lax9ary32c7t9/pytorch_model.bin?dl=0#) and save it in tochMoji/model
 
-#Test
+## Test
 
 ```
 python3
@@ -29,7 +29,7 @@ python3
 :smile:
 ```
 
-#Test in Dscord
+## Test in Dscord
 
 1. Connect to discord bot following my [blog post](https://medium.com/@anuragbhattacharjee/i-created-a-deep-learning-powered-discord-bot-to-react-with-smily-fec831d30d1b).
 2. type a message in a channel and see the bot reacting
