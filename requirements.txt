@@ -13,7 +13,7 @@ joblib==0.16.0
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 multidict==4.7.6
-numpy==1.19.1
+numpy==1.22.0
 pycodestyle==2.6.0
 pylint==2.5.3
 python-dotenv==0.14.0
